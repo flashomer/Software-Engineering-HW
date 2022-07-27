@@ -1,7 +1,8 @@
 # Software-Engineering-HW
  
 ## _Home Work 1_
-Result:
+*Result:*
+
 Car is constructed and given to you with an actual key
 Is car open: false
 Access to control panel:null
@@ -41,7 +42,8 @@ Access to control panel:null
 
 
 ## _Home Work 2_
-Result:
+*Result:*
+
 Menu
 1. List of Foods
 2. Exit
